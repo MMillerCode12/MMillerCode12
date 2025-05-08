@@ -9,11 +9,10 @@
 
 - 📄 Connect with me on <a href='https://www.linkedin.com/in/markus-j-miller/'>LinkedIn!</a>
 
-- ⚡ Fun fact **I'm a music producer!**
+- ⚡ Fun fact **I'm a <a href='https://www.youtube.com/@madebyastray'>music producer!</a>**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My leetcode account:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/markus-j-miller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markus-j-miller" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codeomnister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codeomnister" height="30" width="40" /></a>
 </p>
 
