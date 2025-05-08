@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmillercode12" alt="mmillercode12" /></a> </p>
 
-- 🌱 I’m currently learning **JS, React, DSA (in-depth)**
+- 🌱 I’m currently learning **JS and React!**
 
-- 👨‍💻 All of my projects are available at [(Currently In Progress!)]((Currently In Progress!))
+- 📫 Email to reach out at: **mjmillerprof@gmail.com**
 
-- 📫 How to reach me **mjmillerprof@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/markus-j-miller/](https://www.linkedin.com/in/markus-j-miller/)
+- 📄 Connect with me on <a href='https://www.linkedin.com/in/markus-j-miller/'>LinkedIn!</a>
 
 - ⚡ Fun fact **I'm a music producer!**
 
