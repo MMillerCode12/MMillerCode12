@@ -20,8 +20,8 @@ Student. Developer. Producer. Problem-solver. Caffeine enthusiast.
 > now
 🌱 Learning JavaScript + React  
 💻 Studying CS at GVSU  
-🎹 Making indie beats as [@madebyastray](https://www.youtube.com/@madebyastray)  
-🧠 Grinding Leetcode as [codeomnister](https://leetcode.com/codeomnister)
+🎹 Making indie beats as <a href='https://www.youtube.com/@madebyastray'>@madebyastray</a>
+🧠 Grinding Leetcode as <a href='https://leetcode.com/codeomnister'>CodeOmnister</a>
 ````
 
 ---
