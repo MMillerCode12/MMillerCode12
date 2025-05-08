@@ -58,17 +58,3 @@ Student. Developer. Producer. Problem-solver. Caffeine enthusiast.
 
 ---
 
-<details>
-<summary>⚡ Fun Fact</summary>
-
-I once debugged an error *while producing a lo-fi track*.
-10/10 would accidentally remix my stack traces again.
-
-</details>
-
-```
-
----
-
-Want me to add GitHub stats, a typing SVG, or some animation flair next?
-```
