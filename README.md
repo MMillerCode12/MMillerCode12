@@ -13,10 +13,11 @@
 
 ### 📍 Quick Rundown
 
-<h4 align="center">Who am I?</h4>
+<h3 align="center">Who am I?</h3>
 I'm a student, a developer, and music producer! When I'm not doing one of my many hobbies (running, storm chasing, making music, etc.), I'm spending my time building apps and honing my programming skills!
 
-<h4 align="center">What am I doing now?</h4>
+
+<h3 align="center">What am I doing now?</h3>
 🌱 Learning JavaScript + React  
 💻 Studying CS at GVSU  
 🎹 Making indie beats as <a href='https://www.youtube.com/@madebyastray'>@madebyastray</a>
