@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Markus!</h1>
-<h3 align="center">I'm current a Computer Science student at GVSU :)</h3>
+<h3 align="center">I'm currently a Computer Science student at GVSU :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmillercode12" alt="mmillercode12" /></a> </p>
 
