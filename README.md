@@ -14,7 +14,8 @@
 ### 📍 Quick Rundown
 
 <h3 align="center">Who am I?</h3>
-I'm a <b>student</b>, a <b>developer</b>, and <b>music producer</b>! When I'm not doing one of my many hobbies (running, storm chasing, making music, etc.), I'm spending my time building apps and honing my programming skills! <br>
+I'm a <i><b>student</b></i>, a <i><b>developer</b></i>, and <i><b>music producer</b></i>! When I'm not doing one of my many hobbies (running, storm chasing, making music, etc.), I'm spending my time building apps and honing my programming skills! 
+<p></p>
 
 
 <h3 align="center">What am I doing now?</h3>
