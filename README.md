@@ -18,11 +18,12 @@ I'm a student, a developer, and music producer! When I'm not doing one of my man
 
 
 <h3 align="center">What am I doing now?</h3>
-🌱 Learning JavaScript + React  
-💻 Studying CS at GVSU  
-🎹 Making indie beats as <a href='https://www.youtube.com/@madebyastray'>@madebyastray</a>
-🧠 Grinding Leetcode as <a href='https://leetcode.com/codeomnister'>CodeOmnister</a>
-
+<ul>
+  <li>🌱 Learning JavaScript + React  </li>
+  <li>💻 Studying CS at GVSU </li>
+  <li>🎹 Making indie beats as <a href='https://www.youtube.com/@madebyastray'>@madebyastray</a></li>
+  <li>🧠 Grinding Leetcode as <a href='https://leetcode.com/codeomnister'>CodeOmnister</a></li>
+</ul>
 
 ---
 
