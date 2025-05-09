@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi, I'm Markus Miller!</h1>
-<h3 align="center">CS Student @ GVSU • Python Enthusiast • Leetcode Tinkerer • Bedroom Beatmaker</h3>
+<h3 align="center">CS Student @ GVSU • Python Enthusiast • Leetcode Problem Solver • Bedroom Producer</h3>
 
 ---
 
