@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmillercode12&theme=onedark" alt="GitHub Trophy" />
-</p>
-
----
-
 ### 📍 Quick Rundown
 
 <h3 align="center">Who am I?</h3>
