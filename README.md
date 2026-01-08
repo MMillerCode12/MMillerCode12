@@ -8,7 +8,7 @@
 ### 📍 Quick Rundown
 
 <h3 align="center">Who am I?</h3>
-I'm a <i><b>student</b></i>, a <i><b>developer</b></i>, and <i><b>music producer</b></i>! When I'm not doing one of my many hobbies (running, storm chasing, making music, etc.), I'm spending my time building apps and honing my programming skills! 
+I'm a <i><b>student</b></i>, a <i><b>developer</b></i>, and <i><b>music producer</b></i>! When I'm not doing one of my many hobbies (working out, storm chasing, making music, etc.), I'm spending my time building apps and honing my programming skills! 
 <p></p>
 
 
