@@ -14,7 +14,7 @@ I'm a <i><b>student</b></i>, a <i><b>developer</b></i>, and <i><b>music producer
 
 <h3 align="center">What am I doing now?</h3>
 <ul>
-  <li>🌱 Learning JavaScript + React  </li>
+  <li>🌱 Learning JavaScript + Angular  </li>
   <li>💻 Studying CS at GVSU </li>
   <li>🎹 Making indie beats as <a href='https://www.youtube.com/@madebyastray'>@madebyastray</a></li>
   <li>🧠 Grinding Leetcode as <a href='https://leetcode.com/codeomnister'>CodeOmnister</a></li>
