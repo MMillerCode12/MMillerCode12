@@ -38,7 +38,7 @@ I'm a <i><b>student</b></i>, a <i><b>developer</b></i>, and <i><b>music producer
 
 ### 🧠 Currently Building
 
-* 🔧 Web apps with React
+* 🔧 Web apps with Angular
 * 💯 Leetcode solutions!
 * ⚙️ A smoother workflow (hello `.gitignore`)
 
